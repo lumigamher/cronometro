@@ -25,6 +25,7 @@ body {
     justify-content: center;
     align-items: center;
     box-shadow: .2rem .2rem 1rem .5rem #0000003d;
+    width: 300px;
 }
 
 .cronometro {
@@ -40,6 +41,8 @@ p, h1 {
     padding: 0;
 }
 
+
+
 body div button {
     background-color: transparent;
     border: 0;
@@ -52,3 +55,4 @@ body div button:hover {
     color: lightseagreen;
     
 }
+
